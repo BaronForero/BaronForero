@@ -1,20 +1,32 @@
 ### Hi there 👋
 
-<!--
-**BaronForero/BaronForero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Kathi and I'm a Front end developer based in Leipzig💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-I'm Kathi a front end developer from Leipzig. 
+👋 Welcome to my site! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaronForero)](https://github.com/anuraghazra/github-readme-stats)
+Here, you'll discover a collection of tries, inspiration, and ideas. Don't forget to explore all of my projects! 💻
+
+As a junior web developer, I'm constantly improving my skills in HTML, CSS/SASS, JS, React, Git, and Scrum. 📚👨‍💻
+
+Feel free to reach out to me anytime at kata.baron.f@gmail.com. I'm always open to new connections and collaborations! 🤝
+
+Skills: JS / REACT / JS / HTML / CSS
+
+- 🌱 I’m currently learning react 
+- 📫 How to reach me: kata.baron.f@gmail.com 
+- ⚡ Fun fact: Resolving bugs and adding a few more 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BaronForero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/katharina-baron/)  
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaronForero&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BaronForero)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=BaronForero)  
+
+![Profile views](https://gpvc.arturio.dev/BaronForero)  
