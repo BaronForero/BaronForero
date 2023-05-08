@@ -18,8 +18,7 @@ Feel free to reach out to me anytime at kata.baron.f@gmail.com. I'm always open 
 - 📫 How to reach me: kata.baron.f@gmail.com 
 - ⚡ Fun fact: Resolving bugs and adding a few more 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BaronForero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/katharina-baron/)  
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaronForero&show_icons=true)  
 
