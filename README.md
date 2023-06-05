@@ -24,4 +24,4 @@ Feel free to reach out to me anytime at kata.baron.f@gmail.com. I'm always open 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=BaronForero)  
 
-![Profile views](https://gpvc.arturio.dev/BaronForero)  
+
